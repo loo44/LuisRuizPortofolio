@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
+    border: 4px dotted green;
 }
 
 #grid-container{
